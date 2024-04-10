@@ -1,0 +1,19 @@
+{
+  "name": "@aimfox/icons",
+  "version": "1.46.0",
+  "description": "Icons icons set",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/referrizer/icons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/referrizer/icons/issues"
+  },
+  "homepage": "https://bitbucket.org/referrizer/icons#readme"
+}
