@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/referrizer/icons.git"
+    "url": "git+ssh://git@bitbucket.org/aimfox/icons.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://bitbucket.org/referrizer/icons/issues"
+    "url": "https://bitbucket.org/aimfox/icons/issues"
   },
-  "homepage": "https://bitbucket.org/referrizer/icons#readme"
+  "homepage": "https://bitbucket.org/aimfox/icons#readme"
 }
