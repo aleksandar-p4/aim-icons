@@ -1,19 +1,19 @@
 {
-  "name": "@aimfox/icons",
-  "version": "1.46.0",
-  "description": "Icons icons set",
-  "main": "index.js",
+  "name": "aimfox-icons",
+  "version": "1.0.1",
+  "description": "Aimfox Icons Reusable Component",
+  "main": "demo.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/aimfox/icons.git"
+    "url": "git+https://github.com/aleksandar-p4/aim-icons.git"
   },
-  "author": "",
+  "author": "AP",
   "license": "ISC",
   "bugs": {
-    "url": "https://bitbucket.org/aimfox/icons/issues"
+    "url": "https://github.com/aleksandar-p4/aim-icons/issues"
   },
-  "homepage": "https://bitbucket.org/aimfox/icons#readme"
+  "homepage": "https://github.com/aleksandar-p4/aim-icons#readme"
 }
